@@ -65,7 +65,9 @@ endmodule
 */
 
 **RTL Schematic**
+FULL ADDER
 <img width="1315" height="544" alt="Screenshot 2025-12-04 221447" src="https://github.com/user-attachments/assets/4b490351-894f-4132-a3a8-64140416d292" />
+FULL SUBTRACTOR
 <img width="1455" height="522" alt="Screenshot 2025-12-04 215459" src="https://github.com/user-attachments/assets/2c354f21-2fd1-4471-859c-150e70177762" />
 
 
